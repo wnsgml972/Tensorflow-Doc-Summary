@@ -14,9 +14,10 @@ TextRank 를 이용하여 한글 문서에서도 문서 요약을 가능하게 �
 * [Korea, TextRank-Doc-Summary](https://github.com/wnsgml972/TextRank-Doc-Summary)
 * [English, Tensorflow-Doc-Summary](https://github.com/wnsgml972/Tensorflow-Doc-Summary)
 
-<br/><br/>
+####  프로젝트 바로가기 [:heavy_check_mark:](https://github.com/wnsgml972/Tensorflow-Doc-Summary/blob/master/tensorflow-doc-
+summary.ipynb)
 
-####  프로젝트 바로가기 [:heavy_check_mark:](https://github.com/wnsgml972/Tensorflow-Doc-Summary/blob/master/tensorflow-doc-summary.ipynb)
+<br/><br/>
 
 ## 개념 설명
 
